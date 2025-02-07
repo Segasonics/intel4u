@@ -45,7 +45,7 @@ const HowItWorks = () => {
         <div className="text-center mt-12 mb-10">
           <h2 className="text-3xl font-semibold">Get Started Today!</h2>
           <p className="text-gray-600 mt-2">Join us and experience seamless customer interactions.</p>
-          <button className="mt-6 px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
+          <button className="mt-6 px-6 py-3 bg-blue-950 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
             Start Now
           </button>
         </div>
