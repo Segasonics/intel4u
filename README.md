@@ -1,8 +1,27 @@
-# React + Vite
+# 🧠 Intel4U
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Intel4U** is a modern software consultation platform that helps users connect with expert tech consultants. Built using React and Google Sheets API as a lightweight backend, the platform is smooth, fast, and mobile-friendly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 📝 Book a free consultation
+- ⚡ Instant data sync via Google Sheets API
+- 💬 Engaging UI with Framer Motion animations
+- 🌐 Hosted on Netlify with fast load times
+- 📱 Fully responsive across devices
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Tailwind CSS, Vite, Framer Motion  
+- **Backend**: Google Sheets API (no traditional server)  
+- **Deployment**: Netlify
+
+---
+
+
+
+
